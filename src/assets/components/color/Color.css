@@ -30,7 +30,7 @@
   align-items: center;
 }
 .color-name {
-  font-size: 2rem;
+  font-size: 1.7rem;
   font-family: Arial, Helvetica, sans-serif;
 }
 .color-code {
@@ -41,6 +41,7 @@
 
 .color-text {
   max-width: 400px;
+  font-size: 0.7rem;
   font-family: Arial, Helvetica, sans-serif;
 }
 
