@@ -11,7 +11,7 @@ const Color = () => {
 
   const [randomColors, setRandomColors] = useState(getRandomColors());
 
-  const sizes = ["30vh", "18vh", "18vh", "18vh"];
+  const sizes = ["25vh", "18vh", "18vh", "18vh"];
 
   const handleButtonClick = () => {
     setRandomColors(getRandomColors());
